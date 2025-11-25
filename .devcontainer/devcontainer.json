@@ -1,5 +1,5 @@
 {
-  "name": "C++ OOP Labs (MAI)",
+  "name": "C++ OOP Lab 6",
   "dockerFile": "Dockerfile",
   "context": "..",
   "customizations": {
